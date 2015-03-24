@@ -3,7 +3,7 @@ package stackOverflow;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-
+// This is a hackerrank problem appeared in march sprint code week.
 public class KarpenkarProblem  {
 
 	public static void main(String[] args) throws IOException{
